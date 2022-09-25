@@ -75,15 +75,15 @@ body {
   }
 
   a {
-    color: #ccc;
+    color: #21baff;
     text-decoration: none;
-    border-bottom: 1px solid #ccc;
+    border-bottom: 1px solid #21baff;
     transition: 0.4s all;
   }
 
   a:hover {
     border-bottom: 1px solid transparent;
-    color: #fff;
+    color: #9fe1ff;
   }
 
   h2 {
@@ -141,7 +141,7 @@ body {
     background: rgb(28 40 43 / 75%);
     z-index: 90;
     position: relative;
-    max-width: 600px;
+    max-width: 800px;
     border-radius: 10px;
     padding: 30px;
     margin: 30px auto;
